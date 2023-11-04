@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Jigar
+	email = jpxtel98@outlook.com
+[core]
+	excludesfile = /Users/jpatel/.gitignore
